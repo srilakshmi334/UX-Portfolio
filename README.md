@@ -1,7 +1,7 @@
 # UX-Portfolio
 UX Cases (also available within each project)
 
-UX Case - ICS4U7_IA (other files w/ additional planning is located in files in UX Case - ICS4U7_IA folder)  
+UX Case - ICS4U7_IA (other files w/ additional planning are located in files in UX Case - ICS4U7_IA folder)  
 The following links include the app wireframe and the prototype demo    
 Wireframe Link:  [access here](https://drive.google.com/file/d/1lcN4649LhLMinnrPRFfP8oV9L_uX7EAH/view?usp=sharing)  
 Video Demo Link: [access here](https://drive.google.com/file/d/1eUsy6ZMg-gpNZ3qMowf_zEfH3aU-fFGM/view?usp=sharing)  
