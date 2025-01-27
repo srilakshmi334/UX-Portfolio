@@ -1,0 +1,26 @@
+UX Case Overview - horizon (from UX Open)
+
+Project Context:
+This team project was a collaboration between designers and product managers to develop an app idea that improved a specific area, this project was under the productivity category. Targeted towards university students and working professionals, our app, horizon is a modified version of typical calendar apps, allowing you to better schedule your day based on your personal preferences/habits.
+
+Roles/Responsibilities (Designer):
+1. Developed a wireframe using Figma with my collaborator which walks users through the features/process of using horizon
+2. Explored various colour palettes and font styles via Canva, to determine "good design" that fits with the target user audience
+3. Considered the features that optimize the function of the app, with a focus on the typical university student/working adult's schedule
+4. Helped develop the pitch and fundamental ideas surrounding the basis for horizon as a marketable app
+
+Core Problem:
+Our app horizon, tackles the problem of staggered productivity. University students have several tasks to complete during the day, but that doesn't mean that they're always productive when they need to be. A lack of productivity often means that users then struggle to complete their day-to-day tasks leading to their schedule to feel like a burden or challenge when in reality, they may just need a schedule that works for them. 
+
+Research Methods:
+1. Communication with other students about habits/productivity during their schedules
+2. Online research about typical day-to-day habits experienced by users within the target age range
+3. Mentorship from other designers/product managers on how to effectively design/pitch the idea
+
+Final Design Solution:
+Rather than viewing staggered inconsistent productivity as a problem, we used it as an advantage. Instead of forcing users to feel burdened by their schedules, our app intends to optimize and adjust to match the unique habits of each of our users. Our app allows you to answer personalized questions about your day-to-day routines/productivity and generates a schedule that works best with you. However, we still ensure that the user gets the final say, as you can adjust your schedule as needed, regenerate a schedule if necessary, and even import events from other calendars that are added to your day. 
+
+This app optimizes your daily calendar, making sure that all of the user's tasks are completed, but scheduled to help you feel less stressed about your day. The main algorithm of the app is focused on the idea that harder tasks are done during deep periods of productivity, while lighter tasks are done when users need a break or are less productive. The goal of this app is to give users a sense of empowerment over their day without feeling like they are regular day-to-day tasks are chores that need to be completed.
+
+Reflection:
+Working on this project gave me a chance to improve my collaboration skills while also exploring design which is a field that is less familiar to me. As a programmer, I am used to working on projects from a technical standpoint, which can limit my ability to consider the UX features that matter to end-users. Building the wireframe for this app, gave me insight into the functional considerations that should be made for users, (i.e. often the most touched areas of a phone screen are the bottom-middle and center areas) and aesthetics such as colours/fonts which can have an impact on usability and general audience appeal. Building the wireframe also improved my familiarity with design tools such as Figma & Canva, giving me a stronger set of skills that are also useful in my own computer science field (i.e. developing user flowcharts). The collaboration experience with my fellow designer, and product managers was also a chance to develop my own voice in the design process while implementing group suggestions and developing a product that spoke to our team's original idea.
