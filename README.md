@@ -15,3 +15,9 @@ Figma Prototype Link: [access here](https://www.figma.com/proto/zRJm8u6fcuIesg54
 The following links include the app wireframe and the prototype demo  
 Figma Wireframe Link: [access here](https://www.figma.com/design/M2smqd3gWnPYTtGmgGvzYA/UXOpen-Team-11-Prototype?node-id=38-4&t=VaSqQlywT7XLco45-1)  
 Figma Prototype Link: [access here](https://www.figma.com/proto/M2smqd3gWnPYTtGmgGvzYA/UXOpen-Team-11-Prototype?page-id=38%3A4&node-id=64-62&p=f&viewport=240%2C165%2C0.12&t=fNff8I48REAOBfE6-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=64%3A62&show-proto-sidebar=1)
+
+<ins>UX Case - TeenCoach (also available in UX Case - TeenCoach folder under UX Case Overview - TeenCoach)</ins>   
+The following links include the app wireframe and the prototype demo  
+Figma Wireframe Link: [access here](https://www.figma.com/design/spCIXimty0amVDkiWjS68j/Teen-Coach-Prototype?node-id=0-1&t=a01TimA88QBRFA9D-1)  
+Figma Prototype Link: [access here](https://www.figma.com/proto/spCIXimty0amVDkiWjS68j/Teen-Coach-Prototype?node-id=0-1&t=Z6yvTppUdp06NoNd-1)  
+Video Demo Link: [access here](https://drive.google.com/file/d/13fbvG7DtYkyTps-oMjks_NVKG9QqUIbi/view?usp=sharing)  
